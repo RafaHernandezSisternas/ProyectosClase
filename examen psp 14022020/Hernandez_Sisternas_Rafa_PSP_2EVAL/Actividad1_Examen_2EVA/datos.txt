@@ -1,0 +1,7 @@
+localhost
+21
+usuario1
+1234
+libros
+java
+c:\examen\
